@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+scikit-learn
+category_encoders
+pandas
+python-multipart
